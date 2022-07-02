@@ -1,0 +1,10 @@
+comtrade
+google-cloud-storage
+gunicorn
+influxdb-client
+jupyter
+matplotlib
+numpy
+pandas
+python-dotenv
+seaborn
